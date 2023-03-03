@@ -1,1 +1,2 @@
 # azure-cosmos
+This project is giving a basic idea to start working with cosmos DB using SpringBoot.Here we have two cosmos databases which holds similar types of data, and there is another cosmos database which is dynamically updated by the name of these two databases, we are trying to fetch the data from these two databases and before that we are trying to check the database name from the 3rd table.
